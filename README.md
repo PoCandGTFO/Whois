@@ -1,4 +1,5 @@
 sudo chmod +x whois.sh
+
 ./whois.sh target.com
 
 find out phishing page
